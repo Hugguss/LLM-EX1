@@ -58,7 +58,8 @@ header .sec-2 {
   align-items: center;
 }
 header .busqueda {
-  border: 2px solid red;
+  border: 2px solid #f4d0b7;
+  border-radius: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
